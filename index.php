@@ -11,6 +11,7 @@
     <title>Registration Form</title>
     <link rel="stylesheet" href="style\styleWep.css">
     <script defer src="scripts\API_Ops.js"></script>
+      <script defer src="scripts\validation.js"></script>
   </head>
   <body>
   <div class="form-container">
